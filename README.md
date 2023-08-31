@@ -25,7 +25,7 @@ Some packages are:
 1. This app is used to control the electric pump of an Indian farmer.
 2. They can schedule the timing to start their system and also they can remotely control the whole motor system.
 3. This application will also update the farmers about the availability of electricity on the field.
-<img src="https://github.com/9k-ux/motor_controller_app_final/blob/main/Screenshot_2023-02-26-22-14-33-07_fe2079fa00c6d0413f786a950f5b1b80.jpg">
+<img src="https://github.com/9k-ux/Agronomist_app/blob/main/homeapp.jpg">
 
 ## How this project was made?
 
